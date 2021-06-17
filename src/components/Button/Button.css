@@ -1,0 +1,14 @@
+.button-default {
+  padding: 10px 25px;
+  background: purple;
+  color: White;
+  border-radius: 55px;
+  box-shadow: 0 0 0;
+  border: 0px;
+  cursor: pointer;
+}
+
+.button-default:hover {
+  background: #282828;
+  transition: 0.3s ease-out;
+}
